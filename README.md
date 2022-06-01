@@ -2,6 +2,10 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Project Overview
+This is a simple Todolist app that supports add/delete Todos, update Todos and overview of Todos.
+This app is created by React using Typescript, and state management by Mobx
+
 ## Available Scripts
 
 In the project directory, you can run:
